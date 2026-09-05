@@ -5,6 +5,12 @@ This project implements a **sound-activated switch** that turns an LED (represen
 
 The circuit demonstrates how simple analog components can be combined to build a reliable, low-cost, sound-triggered switching system — a practical example of signal detection, amplification, and timing circuit design.
 
+## HARDWARE 
+
+<img width="894" height="1600" alt="WhatsApp Image 2026-09-05 at 4 43 48 PM" src="https://github.com/user-attachments/assets/f49ec781-08d0-475d-9fb9-6dcca9055bfa" />
+
+
+
 ## 🔗 Components Used
 | Component | Parameter |
 |---|---|
